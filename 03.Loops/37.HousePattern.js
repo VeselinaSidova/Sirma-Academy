@@ -14,7 +14,6 @@ function printHouse(n) {
     }
 
     // print main
-
     for (let i = n / 2 + 1; i < n; i++) {
         for (let j = 0; j < n; j++) {
             if (j === 0 || j === n - 1) {

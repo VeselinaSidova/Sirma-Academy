@@ -1,8 +1,12 @@
-function pyramidOfNumbers(n) {
+function pyramidOfNumbersAlternative(n) {
     let printString = '';
     let numberToPrint = 1;
 
     for (let i = 1; i <= n; i++) {
+        for (let j = i; j < n / 2 - 1; j++) {
+            printString += ' ';
+        }
+
         for (let j = 0; j < i; j++) {
             if (numberToPrint > n) {
                 break;
@@ -17,6 +21,6 @@ function pyramidOfNumbers(n) {
     console.log(printString);
 }
 
-pyramidOfNumbers(7);
-pyramidOfNumbers(10);
-pyramidOfNumbers(15);
+pyramidOfNumbersAlternative(7);
+pyramidOfNumbersAlternative(10);
+pyramidOfNumbersAlternative(12);

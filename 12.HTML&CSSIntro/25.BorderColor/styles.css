@@ -1,0 +1,17 @@
+h1 {
+    border: 2px solid red;
+    border-radius: 12px;
+    text-align: center;
+}
+
+section p {
+    border-width: 2px;
+    border-style: dashed;
+    border-color:antiquewhite;
+}
+
+button {
+    border: 5px dotted black;
+    padding: 6px 12px;
+    font-weight: bold;
+}

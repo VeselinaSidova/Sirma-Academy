@@ -1,0 +1,17 @@
+div {
+    height: 450px;
+    width: 600px;
+    background-image: url("../05.Images/image3.jpg");
+    background-size: 300px 150px;
+    border: 2px solid black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: bisque;
+    padding-left: 20px;
+}

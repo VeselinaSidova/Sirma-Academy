@@ -1,0 +1,11 @@
+span {
+    font-weight: bold;
+}
+
+body > p:nth-child(4) {
+    color: red;
+}
+
+body > p:nth-child(5) {
+    color: green;
+}

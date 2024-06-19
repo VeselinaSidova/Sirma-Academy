@@ -1,0 +1,24 @@
+.container {
+    width: 450px;
+    height: 600px;
+    background-image: url("../05.Images/image5.jpg");
+    border-radius: 12px;
+    border: 2px solid black;
+}
+
+h1 {
+    color:white;
+    text-align: center;
+}
+
+.inner-container {
+    margin: auto;
+    width: 350px;
+    height: 500px;
+}
+
+p {
+    color:white;
+    text-align: justify;
+    text-indent: 20px;
+}

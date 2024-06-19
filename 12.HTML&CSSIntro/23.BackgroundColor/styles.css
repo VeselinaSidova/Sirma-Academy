@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(196, 219, 240);
+}
+
+h1 {
+    background-color:beige;
+    border-radius: 50px;
+    text-align: center;
+    padding: 8px;
+}
+
+h2 {
+    background-color: forestgreen;
+    border-radius: 50px;
+    text-align: center;
+    padding: 2px;
+}
+
+section p {
+background-color: aquamarine;
+}
+
+button {
+    background-color:cadetblue;
+    border: 1px solid black;
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-weight: bold;
+}

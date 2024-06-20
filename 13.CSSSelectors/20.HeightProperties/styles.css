@@ -1,0 +1,6 @@
+.height-example {
+   height: 20px;
+   /* min-height: 100px; */
+   max-height: 10px;
+   background-color: aquamarine;
+}

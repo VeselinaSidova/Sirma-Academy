@@ -1,0 +1,9 @@
+div p {
+    font-size: 24px;
+    color: forestgreen;
+}
+
+div > p {
+    font-size: 32px;
+    color: red;
+}

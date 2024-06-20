@@ -1,0 +1,7 @@
+div > p {
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.parent > p {
+    text-decoration: underline;  
+}

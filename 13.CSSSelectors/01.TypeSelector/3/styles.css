@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color: purple;
+}
+
+p {
+    text-indent: 30px;
+}
+
+div {
+    font-size: 24px;
+    color: forestgreen;
+    text-transform: uppercase;
+}

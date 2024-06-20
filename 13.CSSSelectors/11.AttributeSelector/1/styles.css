@@ -1,0 +1,13 @@
+input[type="text"] {
+    font-size: 18px;
+    color: gray;
+}
+
+input[type="submit"] {
+    display: block;
+    margin-top: 10px;
+    padding: 4px 12px;
+    background-color: cadetblue;
+    border: 1px solid black;
+    border-radius: 8px;
+}
